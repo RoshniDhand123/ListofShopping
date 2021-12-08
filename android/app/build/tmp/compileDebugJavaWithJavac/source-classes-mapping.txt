@@ -1,0 +1,14 @@
+com/navdemo/BuildConfig.java
+ com.navdemo.BuildConfig
+com/navdemo/ReactNativeFlipper.java
+ com.navdemo.ReactNativeFlipper
+ com.navdemo.ReactNativeFlipper$1
+ com.navdemo.ReactNativeFlipper$2
+ com.navdemo.ReactNativeFlipper$2$1
+com/navdemo/MainApplication.java
+ com.navdemo.MainApplication
+ com.navdemo.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/navdemo/MainActivity.java
+ com.navdemo.MainActivity
